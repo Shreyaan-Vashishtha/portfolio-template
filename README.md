@@ -1,4 +1,4 @@
-# Easy Setup (Hugo + Netlify + Forestry)
+# Easy to Setup Portfolio Template (Hugo + Netlify + Forestry)
 Build your website with kross hugo theme by following this easy steps (No Coding Required)
 
 ### What you need !!
@@ -8,7 +8,7 @@ Build your website with kross hugo theme by following this easy steps (No Coding
 3. [Forestry](https://forestry.io) account to maintain whole project without code.
 
 ### Quick Setup
-**One click installation** [![import to forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=Shreyaan-Vashishtha/portfolio-template&engine=hugo&version=0.60.1&config=exampleSite)
+**One click installation** [![import to Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=Shreyaan-Vashishtha/portfolio-template&engine=hugo&version=0.60.1&config=exampleSite)
 
 ## Manual Setup
 
@@ -33,7 +33,7 @@ Now you can go to forestry and add, remove or customize every setting and conten
 > If you face any issue regarding the installation feel free to [open a new issue](https://github.com/Shreyaan-Vashishtha/portfolio-template/issues) or contact us on [Discord](https://www.discord.com) .
 
 
-[Live Preview](http://demo.themefisher.com/kross-hugo/).
+[Live Preview](https://work.shreyaan.tech).
 
 
 ## Reporting Issues
