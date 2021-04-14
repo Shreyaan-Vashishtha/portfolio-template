@@ -8,7 +8,7 @@ Build your website with kross hugo theme by following this easy steps (No Coding
 3. [Forestry](https://forestry.io) account to maintain whole project without code.
 
 ### Quick Setup
-**One click installation** [![import to forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=themefisher/kross-hugo&engine=hugo&version=0.60.1&config=exampleSite)
+**One click installation** [![import to forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=Shreyaan-Vashishtha/portfolio-template&engine=hugo&version=0.60.1&config=exampleSite)
 
 ## Manual Setup
 
