@@ -30,7 +30,7 @@ Here comes the last step . Go to your [Netlify](https://netlify.com) account and
 
 Now you can go to forestry and add, remove or customize every setting and content.
 
-> If you face any issue regarding the installation feel free to [open a new issue](https://github.com/Shreyaan-Vashishtha/portfolio-template/issues) or contact us on [Discord](https://www.discord.com) .
+> If you face any issue regarding the installation feel free to [open a new issue](https://github.com/Shreyaan-Vashishtha/portfolio-template/issues) or contact us on [Discord](https://discord.gg/CYFemFzPP8) .
 
 
 [Live Preview](https://work.shreyaan.tech).
